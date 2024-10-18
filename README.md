@@ -1,0 +1,1 @@
+Repositório dedicado a exemplos e exercícios de design patterns.
